@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edt_marg_v">5</dimen>
+    <dimen name="edt_corners">20</dimen>
+</resources>

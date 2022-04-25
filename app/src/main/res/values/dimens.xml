@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edt_marg_v">5dp</dimen>
+    <dimen name="edt_corners">20dp</dimen>
+    <dimen name="btn_corner">15dp</dimen>
+    <dimen name="btn_marv">10dp</dimen>
+    <dimen name="title_marv">10dp</dimen>
+</resources>
