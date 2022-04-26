@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidDevFiles/cockpit/app/src/main/res/drawable/switch_thumb.xml" value="0.26205128205128203" />
+        <entry key="..\:/AndroidDevFiles/cockpit/app/src/main/res/drawable/switch_track.xml" value="0.26205128205128203" />
         <entry key="..\:/AndroidDevFiles/cockpit/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

@@ -20,7 +20,20 @@
         android:layout_marginVertical="@dimen/title_marv"
         />
 
+    <androidx.appcompat.widget.SwitchCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:thumb="@drawable/switch_thumb"
+        android:textOn="Send"
+        android:textOff="Receive"
+        android:textColor="@color/white"
+        app:track="@drawable/switch_track"
+        app:showText="true"
+        android:layout_marginVertical="10dp"
+        />
+
     <LinearLayout
+        android:id="@+id/ll_send"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
@@ -79,7 +92,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="@dimen/btn_ht"
             android:text="Burst"
             android:layout_marginVertical="@dimen/btn_marv"
             app:cornerRadius="@dimen/btn_corner"
